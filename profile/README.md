@@ -1,14 +1,14 @@
-## CodeWriter Packages ![Stars](https://img.shields.io/github/stars/codewriter-packages?style=social)
+### CodeWriter Packages ![Stars](https://img.shields.io/github/stars/codewriter-packages?style=social)
 
 <hr>
 
 ### UniMob ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/unimob?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/UniMob.svg?style=flat-square)](#) [![Unity 2019.3](https://img.shields.io/badge/Unity-2019.3+-2296F3.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/UniMob?style=flat-square)
-[UniMob](https://github.com/codewriter-packages/UniMob#readme) - Modern reactive programming library for Unity
+[UniMob](https://github.com/codewriter-packages/UniMob#readme) - Modern reactive programming library. UniMob inspired by [MobX](https://github.com/mobxjs/mobx) and adapts the principles of object-oriented reactive programming for Unity.
 
 <hr>
 
 ### UniMob.UI ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/unimob.ui?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/UniMob.UI.svg?style=flat-square)](#) [![Unity 2019.3](https://img.shields.io/badge/Unity-2019.3+-2296F3.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/UniMob.UI?style=flat-square)
-[UniMob.UI](https://github.com/codewriter-packages/unimob.ui#readme) - A declarative library for building reactive user interface. Built over [UniMob](https://github.com/codewriter-packages/UniMob).
+[UniMob.UI](https://github.com/codewriter-packages/unimob.ui#readme) - MVU/MVI/Redux like library for building declarative user interface in Unity. Built over [UniMob](https://github.com/codewriter-packages/UniMob). Inspired by [Flutter](https://github.com/flutter/flutter).
 
 <hr>
 
@@ -18,9 +18,9 @@
 <hr>
 
 ### Mesh Animation ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/mesh-animation?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/Mesh-Animation.svg)](#) [![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/Mesh-Animation?style=flat-square)](#)
-[Mesh Animation](https://github.com/codewriter-packages/mesh-animation#readme) is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
+[Mesh Animation](https://github.com/codewriter-packages/mesh-animation#readme) is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing. (VAT, Vertex Animation Texture, Morphing Animation) 
 
 <hr>
 
 ### Package Symlinker ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/package-symlinker?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/Package-Symlinker.svg?style=flat-square)](#) [![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/Package-Symlinker?style=flat-square)](#)
-[Package Symlinker](https://github.com/codewriter-packages/package-symlinker#readme) - Tool for maintaining symbolic linked packages for Unity
+[Package Symlinker](https://github.com/codewriter-packages/package-symlinker#readme) - Tool for maintaining symbolic linked packages for Unity.
