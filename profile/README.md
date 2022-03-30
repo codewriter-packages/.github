@@ -14,7 +14,7 @@
 
 <hr>
 
-### View Binding ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/View-Binding?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/View-Binding.svg)](#) [![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/View-Binding?style=flat-square)](#)
+### View Binding ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/View-Binding?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/View-Binding.svg)](#) [![Unity 2020.1](https://img.shields.io/badge/Unity-2020.1+-2296F3.svg?style=flat-square)](#) [![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/View-Binding?style=flat-square)](#)
 [View Binding](https://github.com/codewriter-packages/View-Binding#readme) library for Unity. Built over [UniMob](https://github.com/codewriter-packages/UniMob).
 
 <hr>
