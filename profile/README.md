@@ -9,7 +9,7 @@ Modern reactive programming library. UniMob inspired by [MobX](https://github.co
 // declare reactive property
 [Atom] private int Counter { get; set; }
 
-// Update counterText when Counter changed until Lifetime terminated
+// Print message when Counter changed until Lifetime terminated
 Atom.Reaction(Lifetime, () => Debug.Log("Tap count: " + Counter));
 ```
 
