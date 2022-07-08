@@ -36,8 +36,3 @@ private Widget BuildTodos(BuildContext context) {
 
 ## [Tri Inspector](https://github.com/codewriter-packages/Tri-Inspector) &middot; ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/Tri-Inspector?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/Tri-Inspector.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/Tri-Inspector?style=flat-square)
 Free and open-source library that improves unity inspector.
-
-```csharp
-[Required] public Material mat;
-```
-![Required](https://user-images.githubusercontent.com/26966368/168233232-596535b4-bab8-462e-b5d8-7a1c090e5143.png)
