@@ -2,6 +2,11 @@
 
 <hr>
 
+## [Tri Inspector](https://github.com/codewriter-packages/Tri-Inspector) &middot; ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/Tri-Inspector?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/Tri-Inspector.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/Tri-Inspector?style=flat-square)
+Free and open-source library that improves unity inspector.
+
+<hr>
+
 ## [UniMob](https://github.com/codewriter-packages/UniMob) &middot; ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/unimob?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/UniMob.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/UniMob?style=flat-square)
 Modern reactive programming library. UniMob inspired by [MobX](https://github.com/mobxjs/mobx) and adapts the principles of object-oriented reactive programming for Unity.
 
@@ -31,8 +36,3 @@ private Widget BuildTodos(BuildContext context) {
 ```
 
 > More examples can be found in the **[UniMob Samples](https://github.com/codewriter-packages/UniMob.UI-Samples#readme)** repository
-
-<hr>
-
-## [Tri Inspector](https://github.com/codewriter-packages/Tri-Inspector) &middot; ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/Tri-Inspector?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/Tri-Inspector.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/Tri-Inspector?style=flat-square)
-Free and open-source library that improves unity inspector.
