@@ -35,6 +35,7 @@ private Widget BuildTodos(BuildContext context) {
 }
 ```
 
+> [!NOTE]
 > More examples can be found in the **[UniMob.UI Samples](https://github.com/codewriter-packages/UniMob.UI-Samples#readme)** repository
 
 <hr>
@@ -46,11 +47,7 @@ private Widget BuildTodos(BuildContext context) {
 - `Utilities` [Expression-Parser](https://github.com/codewriter-packages/Expression-Parser) - *Simple math expression parser library for Unity;*
 - `ECS` [Morpeh.Events](https://github.com/codewriter-packages/Morpeh.Events) - *Events for Morpeh ECS;*
 - `ECS` [Morpeh.SystemStateProcessor](https://github.com/codewriter-packages/Morpeh.SystemStateProcessor) - *Reactivity for Morpeh ECS;*
-- `ECS` `OBSOLETE` ~~[Morpeh.StateMachine](https://github.com/codewriter-packages/Morpeh.StateMachine) - *StateMachine for Morpeh ECS;*~~
-- `ECS` `OBSOLETE` ~~[Morpeh-UniMob-Globals](https://github.com/codewriter-packages/Morpeh-UniMob-Globals)~~
 - `Editor` [Package-Symlinker](https://github.com/codewriter-packages/Package-Symlinker) - *Utility that simplifies UPM package development;*
 - `Editor` [NpmPublisherSupport](https://github.com/codewriter-packages/NpmPublisherSupport) - *Publish Npm packages to your registry directly from the Unity;*
-- `Editor` `OBSOLETE` ~~[NpmPackageLoader](https://github.com/codewriter-packages/NpmPackageLoader) - *Pack assets to UnityPackages and distribute them via npm registry;*~~
-- `Samples` [MVC-for-UI-Cookbook](https://github.com/codewriter-packages/MVC-for-UI-Cookbook) - *MVC templates for Unity with various frameworks;*
+- `Editor` [SceneMaterialAnalyzer](https://github.com/codewriter-packages/SceneMaterialAnalyzer) - *Tool for analyzing materials and shaders used in scenes*
 - `Samples` [UniMob.UI-Samples](https://github.com/codewriter-packages/UniMob.UI-Samples) - *Samples for UniMob.UI;*
-- `Samples` `OBSOLETE` ~~[SampleApp-Clicker](https://github.com/codewriter-packages/SampleApp-Clicker) - *Sample app uses UniMob, UniMob.UI, View-Binding, Style-Components, Morpeh, Morpeh-UniMob-Globals;*~~
