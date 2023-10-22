@@ -42,6 +42,7 @@ private Widget BuildTodos(BuildContext context) {
 
 ### More packages
 - `Animation` [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation)  - *Fast GPU vertex shader based animation library for Unity;*
+- `TextMeshPro` [TextMeshPro.SpriteAtlas.Support](https://github.com/codewriter-packages/textmeshpro-spriteatlas-support)  - *SpriteAtlas to TMP.SpriteAsset converter;*
 - `UI` [View-Binding](https://github.com/codewriter-packages/View-Binding) - *View binding library for Unity;*
 - `UI` [Style-Components](https://github.com/codewriter-packages/Style-Components) - *Library for styling game objects in Unity;*
 - `Utilities` [Expression-Parser](https://github.com/codewriter-packages/Expression-Parser) - *Simple math expression parser library for Unity;*
@@ -50,4 +51,4 @@ private Widget BuildTodos(BuildContext context) {
 - `Editor` [Package-Symlinker](https://github.com/codewriter-packages/Package-Symlinker) - *Utility that simplifies UPM package development;*
 - `Editor` [NpmPublisherSupport](https://github.com/codewriter-packages/NpmPublisherSupport) - *Publish Npm packages to your registry directly from the Unity;*
 - `Editor` [SceneMaterialAnalyzer](https://github.com/codewriter-packages/SceneMaterialAnalyzer) - *Tool for analyzing materials and shaders used in scenes*
-- `Samples` [UniMob.UI-Samples](https://github.com/codewriter-packages/UniMob.UI-Samples) - *Samples for UniMob.UI;*
+- `Roslyn` [RequiredFieldsInit-Analyzer](https://github.com/codewriter-packages/RequireFieldsInit-Analyzer) - *C# 11 "Required Members" for Unity;*
