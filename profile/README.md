@@ -4,7 +4,7 @@ Free and open-source library that improves unity inspector.
 <hr>
 
 ## [UniMob](https://github.com/codewriter-packages/UniMob) &middot; ![GitHub Repo stars](https://img.shields.io/github/stars/codewriter-packages/unimob?style=flat-square) [![Github license](https://img.shields.io/github/license/codewriter-packages/UniMob.svg?style=flat-square)](#) ![GitHub package.json version](https://img.shields.io/github/package-json/v/codewriter-packages/UniMob?style=flat-square)
-Modern reactive programming library. UniMob inspired by [MobX](https://github.com/mobxjs/mobx) and adapts the principles of object-oriented reactive programming for Unity.
+Modern object-oriented reactive programming library for Unity. Inspired by [MobX](https://github.com/mobxjs/mobx).
 
 <hr>
 
